@@ -1,0 +1,74 @@
+Internship Report
+
+Day 1 : (2/6/2025) Monday
+
+1. What is Programming?
+2. What is Syntax?
+3. What is Python? Why Python? History of Python.
+4. What is AI and Automation?
+5. VS Code (Editor) and Python Installation
+6. Basics of Python Programming like print, input and comments.
+
+Day 2 : (3/6/2025) Tuesday
+
+1. Data Types in Python
+2. Escape Sequences ('\n', '\t')
+3. How to print multiple lines in print() function (Use three times double quotes - """message""")
+
+Day 3 : (4/6/2025) Wednesday
+
+1. Arithmetic Operators, Logical Operators, Comparison Operators, Assignment Operators
+2. Type Casting and other programs 
+
+Day 4 : (5/6/2025) Thursday
+
+1. Operators Precedence and Associativity
+2. Conditional Statements (if statement, if-else, if-elif-else)
+
+Day 5 : (6/6/2025) Friday
+
+Day 6 : (9/6/2025) Monday
+1. for loop → use / syntax
+
+2. while loop → use / syntax
+
+3. Program to print multiplication table using for loop 
+
+4. Program to print multiplication table using while loop
+
+5. Program to print start pattern using for loop 
+  Output 
+  *
+  * *
+  * * *
+  * * * *
+  * * * * *
+
+6. vowels
+
+7. control statement
+  ① break
+  ② continue
+  ③ pass
+
+Day 7 : (10/6/2025) Tuesday
+
+1. Function Definition
+2. Function Definition with Parameters
+3. Write a program to define a function to return square of a number
+4. Local Scope and Global Scope
+5. Global Keyword
+6. Function to print count of any specific character from a string
+7. Use a function to implement menu driven for basic arithmetic operations. Take two numbers and the operator from the user as a input
+
+Day 8 : (11/6/2025) Wednesday
+
+1. List Data Type in details
+2. Functions of List (append, remove, extend, pop, insert, del, clear)
+3. List slicing 
+4. Program to pass a list as a parameter to the function
+
+Day 9 : (12/6/ 2025) Thursday
+
+
+
