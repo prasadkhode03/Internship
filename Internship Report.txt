@@ -68,7 +68,17 @@ Day 8 : (11/6/2025) Wednesday
 3. List slicing 
 4. Program to pass a list as a parameter to the function
 
-Day 9 : (12/6/ 2025) Thursday
+Day 9 : (12/6/2025) Thursday
+
+1. Tuple Data type in detail with its functions
+1.1 Tuple Packing and Unpacking
+2. Set Data type in detail with its functions
+3. Git and GitHub installation and setup
+
+Day 10 : (13/06/2025) Friday
+
+1.
+
 
 
 
