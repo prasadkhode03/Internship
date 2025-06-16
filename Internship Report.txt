@@ -80,6 +80,14 @@ Day 10 : (13/06/2025) Friday
 1. Dictionary
 2. Strings
 
+Day 11 : (14/06/2025) Saturday
+
+1. File Handling
+2. Modes of File
+3. Functions like read(), write(), seek(), tell(), readline(), readlines()
+4. Text File Reading/Writing
+5. Binary File (PDF, Video, Image, etc.) Reading/Writing
+6. Transfering one file data into another new file (Image to Image)
 
 
 
