@@ -1,0 +1,6 @@
+File Handling Example...Hello World!!!
+I am Diploma Student
+Learning Computer Engineering
+Trying to learn python
+    programming with ai and automation
+    ok byee goodd
