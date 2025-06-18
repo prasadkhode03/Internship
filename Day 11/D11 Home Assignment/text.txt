@@ -1,0 +1,3 @@
+Please contact our team at support@example.com or sales@example.net for any queries. 
+Our marketing department can be reached at marketing@company.io, while our HR team is available at hr@organization.org. 
+For technical issues, email techsupport@domain.com or reach out to our developers at devteam@project.dev.

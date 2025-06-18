@@ -1,0 +1,1 @@
+Hello SirWelcome to Python ProgrammingWe are learning File HandlingWe are trying to learn modes of File HandlingWelcome!Good Bye!

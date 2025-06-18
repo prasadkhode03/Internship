@@ -1,0 +1,6 @@
+support@example.com
+sales@example.net
+marketing@company.io,
+hr@organization.org.
+techsupport@domain.com
+devteam@project.dev.
