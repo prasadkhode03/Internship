@@ -80,7 +80,7 @@ Day 10 : (13/06/2025) Friday
 1. Dictionary
 2. Strings
 
-Day 11 : (14/06/2025) Saturday
+Day 11 : (16/06/2025) Monday
 
 1. File Handling
 2. Modes of File
@@ -89,5 +89,16 @@ Day 11 : (14/06/2025) Saturday
 5. Binary File (PDF, Video, Image, etc.) Reading/Writing
 6. Transfering one file data into another new file (Image to Image)
 
+Day 12 : (17/06/2025) Tuesday
 
+1. Exception Handling
+2. try, except, else, finally block
+3. Some common built in exceptions (e.g., ValueError, KeyError, ZeroDivideError, FileNotFoundError)
+
+
+Day 13 : (18/06/2025) Wednesday
+
+1. Modules in Python
+2. Ways to import Modules
+3. Packages in Python
 
