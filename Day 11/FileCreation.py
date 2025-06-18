@@ -37,5 +37,3 @@ with open("notes.txt", "w+") as file: #No need to close the file
     # OR print("Total number of word in the file : ",len(result.split()))
 
     print("Total number of character in the file : ",len(result)) #Total number of character in the file
-    
-
