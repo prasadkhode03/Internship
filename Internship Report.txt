@@ -102,3 +102,13 @@ Day 13 : (18/06/2025) Wednesday
 2. Ways to import Modules
 3. Packages in Python
 
+Day 14 : (19/06/2025) Thursday
+
+Day 15 : (20/06/2025) Friday
+
+1. numpy package with its functions
+2. package installation
+Day 16 : (23/06/2025) Monday
+
+1. pandas package
+2. package installation
