@@ -108,7 +108,22 @@ Day 15 : (20/06/2025) Friday
 
 1. numpy package with its functions
 2. package installation
+
 Day 16 : (23/06/2025) Monday
 
 1. pandas package
 2. package installation
+
+Day 17 : (24/06/2025) Tuesday
+
+1. Classes and Object
+2. OOP in Python
+3. Constructors in python (__init__ function)
+4. Static Method @staticmethod
+
+Day 18 : (25/06/2025) Wednesday
+
+1. Inheritance, Types of Inheritance
+2. Polymorphism
+3. Method Overriding
+
