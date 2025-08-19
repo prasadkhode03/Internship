@@ -12,4 +12,7 @@ class Person:
         print(f"Hi, I am {self.name} and I am {self.age} years old.")
 
 P1 = Person("Prasad", 17)
+P2 = Person("Anuj", 18)
 P1.introduce()
+print(P2.name)
+print(P2.age)

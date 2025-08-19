@@ -45,6 +45,3 @@ teacher.set_salary(50000)
 print(f"Salary of {teacher.get_role} is {teacher.get_salary}.")
 admin_staff = AdminStaff("Adminstrator", "Technical Department")
 print(f"Department of {admin_staff.get_role} is {admin_staff.get_department}")
-
-    
-    

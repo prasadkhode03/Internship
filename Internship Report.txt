@@ -44,14 +44,14 @@ Day 6 : (9/6/2025) Monday
   * * * *
   * * * * *
 
-6. vowels
+6. Program to find total number of vowels in a sentence
 
 7. control statement
   ① break
   ② continue
   ③ pass
 
-Day 7 : (10/6/2025) Tuesday
+Day 7 : (10/6/2025) Tuesday #
 
 1. Function Definition
 2. Function Definition with Parameters
@@ -75,12 +75,12 @@ Day 9 : (12/6/2025) Thursday
 2. Set Data type in detail with its functions
 3. Git and GitHub installation and setup
 
-Day 10 : (13/06/2025) Friday
+Day 10 : (13/06/2025) Friday #
 
-1. Dictionary
-2. Strings
+1. Dictionary with its functions
+2. Strings with its functions
 
-Day 11 : (16/06/2025) Monday
+Day 11 : (16/06/2025) Monday#
 
 1. File Handling
 2. Modes of File
@@ -89,7 +89,7 @@ Day 11 : (16/06/2025) Monday
 5. Binary File (PDF, Video, Image, etc.) Reading/Writing
 6. Transfering one file data into another new file (Image to Image)
 
-Day 12 : (17/06/2025) Tuesday
+Day 12 : (17/06/2025) Tuesday #
 
 1. Exception Handling
 2. try, except, else, finally block
@@ -102,9 +102,9 @@ Day 13 : (18/06/2025) Wednesday
 2. Ways to import Modules
 3. Packages in Python
 
-Day 14 : (19/06/2025) Thursday
+Day 14 : (19/06/2025) Thursday#
 
-Day 15 : (20/06/2025) Friday
+Day 15 : (20/06/2025) Friday #
 
 1. numpy package with its functions
 2. package installation
@@ -114,7 +114,7 @@ Day 16 : (23/06/2025) Monday
 1. pandas package
 2. package installation
 
-Day 17 : (24/06/2025) Tuesday
+Day 17 : (24/06/2025) Tuesday #
 
 1. Classes and Object
 2. OOP in Python
@@ -126,4 +126,121 @@ Day 18 : (25/06/2025) Wednesday
 1. Inheritance, Types of Inheritance
 2. Polymorphism
 3. Method Overriding
+
+Day 19 : (26/06/2025) Thursday #
+
+1. Abstraction and Abstraction Class
+2. Encapsulation (Getters and Setter)
+
+Day 20 : (27/06/2025) Friday #
+
+1. Introduction AI and Automation 
+
+Day 21 : (30/06/2025) Monday
+
+1. Agents (Intelligent Agent)
+2. Types of Agent
+3. Structure of Code 
+
+Day 22 : (01/07/2025) Tuesday
+
+1. Searching Strategies
+2. BFS and DFS
+
+Day 23 : (02/07/2025) Wednesday #
+
+1. Tic-Tac-Toe Game using its Assignment
+
+Day 27 : (08/07/2025) Tuesday #
+
+1. Introduction to API
+2. Rest API
+3. Status Codes
+
+Day 28 :
+
+Day 29 : (10/07/2025) Thursday
+
+1. Using API's like OpenWeatherMap
+2. What is lambda, map and filter function
+3. Introduction of Data Analysis, Artificial Intelligence and Machine Learning by new Mentor
+
+Day 30 : (11/07/2025) Friday
+
+1. Analysis of the Titanic Dataset
+
+Day 31 : (14/07/2025) Monday
+
+1. Analysis of the Iris Dataset
+
+Day 32 : (15/07/2025) Tuesday
+
+1. Analysis of the Netflix Titles Dataset
+
+Day 33 : (16/07/2025) Wednesday
+
+1. Analysis of the Walmart Dataset
+2. Basics of Statistics 
+
+Day 34 : (17/07/2025) Thursday
+
+1. Statstical Operations
+
+Day 35 : (18/07/2025) Friday
+
+1. 
+
+Day 36 : (21/07/2025) Monday 
+
+1. Confusion Matrix (Accuracy, Precision, Recall, F1 Score) 
+
+Day 37 : (22/07/2025) Tuesday
+
+Day 38 : (23/07/2025) Wednesday #
+
+2. Introduction to Machine Learning
+3. Types of Machine Learning (Supervised, Unsupervised, Semi-Supervised, Reinforced)
+
+Day 39 : (24/7) Thursday #
+1. Chi-Square Method
+
+Day 40 : (25/7) Friday #
+1. Linear Regression on Uber Dataset
+
+Day 41 : (28/7) Monday #
+1. Linear Regression on diabetes Dataset
+
+Day 42 : (29/7) Tuesday #
+1. Linear Regression on BostonHousing Dataset
+
+Day 43 : (30/7) Wednesday #
+1. Linear Regression on Diabetes Dataset
+
+Day 44 : (31/7) Thursday
+1. Logistic Regression
+
+Day 45 : (1/7) Friday #
+1. Partiotioning Clustering 
+2. Distance Measures (Eucledian Distance, Manhatten Distance, Minkowski Distance, Cosine Similiarity, Jaccard Distance)
+3. K-means Method
+
+Day 46 : (4/7) Monday
+1. Clustering K-medoids #
+2. Hierarchical Clustering #
+
+Day 47 : (5/7) Tuesday
+
+
+Day 48 : (6/7) Wednesday
+1. The k-nearest neighbors algorithm (k-NN)
+
+
+Day 49 : (7/7) Thursday
+1. Assinment on Iris Dataset for clustering
+
+Day 50 : 
+1. Web Automation
+
+Day 51 : 
+1. AI Automation
 

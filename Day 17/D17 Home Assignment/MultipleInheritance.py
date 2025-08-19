@@ -6,7 +6,6 @@ o	Method: play() returns Playing music.'''
 '''5.	Create a class Car that inherits from both Engine and MusicSystem:
 o	Method: drive() returns Car is driving.
 o	Test by creating an object of Car and invoking methods from both parent classes.'''
-
 class Engine:
     def start():
         return "Engine started."

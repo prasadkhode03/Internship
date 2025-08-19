@@ -1,21 +1,12 @@
-'''Ask the user to input a number and a file name.
-Divide 100 by the number.
-If successful, try to open the given file in read mode.
-Use try, except, and else to structure the code.'''
+class Dog: # 'Dog' is the class name
+    # Class attribute
+    species = "Canis familiaris"
 
-try:
-    number = int(input("Enter a number : "))
-    file_name = input("What is your file name? : ")
-    
-    div = 100 / number
-    file = open(file_name, "r")
-except ZeroDivisionError:
-    print("Cannot divide a number by zero.")
-except FileNotFoundError:
-    print("File does not exists.")
+    # Constructor method to initialize object attributes
+    def __init__(self, name, age):
+        self.name = name # 'name' is an instance attribute
+        self.age = age   # 'age' is an instance attribute
 
-# except (FileNotFoundError, ZeroDivisionError) as e:
-#     print("Exception occur due to wrong input! : ", e)
-else:
-    print("\nDivision :", div)
-    print("File Opened Successfully!")
+    # Instance method
+    def bark(self):
+        return f"{self.name} says Woof!"

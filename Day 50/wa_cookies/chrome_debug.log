@@ -1,0 +1,11 @@
+[15972:6680:0812/110327.721:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[20284:3096:0812/110328.155:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[1648:18448:0812/110328.179:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[16180:4048:0812/110328.896:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[7932:15140:0812/110329.593:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[6812:18700:0812/110329.611:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[15972:6680:0812/110330.108:INFO:CONSOLE:163] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yZ/r/DmrF7Vop2fF.js (163)
+[18824:2964:0812/110330.344:INFO:third_party\webrtc\rtc_base\cpu_info.cc:88] Available number of cores: 12
+[15972:6680:0812/110357.731:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[15972:1536:0812/110357.992:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[15972:6680:0812/110401.546:INFO:CONSOLE:114] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yf/r/Y4g_s2HZDT2.js (114)

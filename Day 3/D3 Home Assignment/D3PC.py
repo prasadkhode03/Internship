@@ -7,7 +7,6 @@ o	Else, print "Invalid credentials"
 #Asking for username and password
 username = input("Enter username : ")
 password = input("Enter password : ")
-
 #Matching both predefined values
 if(username == "admin" and password == "1234"):
    print("Login successful")
